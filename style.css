@@ -162,6 +162,11 @@ section{
     font-size: 3.5rem;
 }
 
+.text-animate{
+    width: 22.8rem;
+    position: relative;
+}
+
 
 .text-animate h2{
     font-size: 2rem;
