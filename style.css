@@ -84,7 +84,7 @@ ul.navlist{
 }
 
 .btn{
-    background: var(--gradient-color-bg);
+    background-color: blue;
     color: #fff;
     padding: 8px 10px;
     border-radius: 5px;
@@ -162,10 +162,6 @@ section{
     font-size: 3.5rem;
 }
 
-.text-animate{
-    width: 22.8rem;
-    position: relative;
-}
 
 .text-animate h2{
     font-size: 2rem;
